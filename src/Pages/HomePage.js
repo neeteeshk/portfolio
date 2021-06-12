@@ -1,9 +1,7 @@
 import React from 'react';
 import {faCodiepie, faFacebook, faLinkedin} from '@fortawesome/free-brands-svg-icons';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
-import {faYoutube} from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {Link} from 'react-router-dom';
 
 function HomePage() {
     return (
