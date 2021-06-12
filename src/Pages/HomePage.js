@@ -1,5 +1,5 @@
 import React from 'react';
-import {faFacebook} from '@fortawesome/free-brands-svg-icons';
+import {faCodiepie, faFacebook, faLinkedin} from '@fortawesome/free-brands-svg-icons';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {faYoutube} from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -11,24 +11,22 @@ function HomePage() {
             <header className="hero">
                 <h1 className="hero-text">
                     Hi, I am 
-                    <span> Lorem Ipsum.</span>
+                    <span> Neeteesh Kumar.</span>
                 </h1>
                 <p className="h-sub-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Cupiditate facere, numquam vitae placeat consequatur corrupti officia 
-                    quibusdam. Blanditiis doloremque nemo ex facilis neque. 
-                    A sint ipsam earum nemo omnis et.
+                I'm a software engineer in search of my niche, open to every opportunity and learning that comes my way. Currently working at Amazon in delivering impactful projects and ideas.
+                I like to develop the system through which I can impact the large amount of users. Also I like the challenges to scale it up for sustaining the load without impacting the user experience. I like to explore about the DS and Algorithms, which is one of the reason I like to participate in competitive programming.
                 </p>
                 <div className="icons">
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faFacebook} className="icon fb" />
-                    </Link>
-                    <Link to="test" className="icon-holder">
+                    <a href = "https://www.linkedin.com/in/ntsk626/" className="icon-holder">
+                        <FontAwesomeIcon icon={faLinkedin} className="icon fb" />
+                    </a>
+                    <a href="https://github.com/neeteeshk" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
-                    </Link>
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faYoutube} className="icon yt"/>
-                    </Link>
+                    </a>
+                    <a href="https://codeforces.com/profile/neeteesh205" className="icon-holder">
+                        <FontAwesomeIcon icon={faCodiepie} className="icon yt"/>
+                    </a>
                 </div>
             </header>
         </div>
