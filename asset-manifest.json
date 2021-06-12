@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d4558843.chunk.css",
+    "main.js": "/portfolio/static/js/main.77e1dfc3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.77e1dfc3.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.7c3d640c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.7c3d640c.js.map",
+    "static/js/2.8195b8c0.chunk.js": "/portfolio/static/js/2.8195b8c0.chunk.js",
+    "static/js/2.8195b8c0.chunk.js.map": "/portfolio/static/js/2.8195b8c0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.d4558843.chunk.css.map": "/portfolio/static/css/main.d4558843.chunk.css.map",
+    "static/js/2.8195b8c0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8195b8c0.chunk.js.LICENSE.txt",
+    "static/media/about.20567b5c.jpg": "/portfolio/static/media/about.20567b5c.jpg",
+    "static/media/avatar.e56fc10d.png": "/portfolio/static/media/avatar.e56fc10d.png",
+    "static/media/blog1.aa2f074c.svg": "/portfolio/static/media/blog1.aa2f074c.svg",
+    "static/media/blog2.df7996bd.svg": "/portfolio/static/media/blog2.df7996bd.svg",
+    "static/media/blog3.969725e8.svg": "/portfolio/static/media/blog3.969725e8.svg",
+    "static/media/blog4.60aa6cec.svg": "/portfolio/static/media/blog4.60aa6cec.svg",
+    "static/media/design.b0dea6a3.svg": "/portfolio/static/media/design.b0dea6a3.svg",
+    "static/media/App.scss": "/portfolio/static/media/dots.943074de.svg",
+    "static/media/emailme.8a80ecd4.svg": "/portfolio/static/media/emailme.8a80ecd4.svg",
+    "static/media/game-dev.7e1a6c88.svg": "/portfolio/static/media/game-dev.7e1a6c88.svg",
+    "static/media/intelligence.191362ff.svg": "/portfolio/static/media/intelligence.191362ff.svg",
+    "static/media/location.08194cba.svg": "/portfolio/static/media/location.08194cba.svg",
+    "static/media/phone.da4610ad.svg": "/portfolio/static/media/phone.da4610ad.svg",
+    "static/media/port1.48dd5027.jpg": "/portfolio/static/media/port1.48dd5027.jpg",
+    "static/media/port2.3d5eea07.jpg": "/portfolio/static/media/port2.3d5eea07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3d640c.js",
+    "static/js/2.8195b8c0.chunk.js",
+    "static/css/main.d4558843.chunk.css",
+    "static/js/main.77e1dfc3.chunk.js"
+  ]
+}
