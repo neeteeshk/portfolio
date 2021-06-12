@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d4558843.chunk.css",
-    "main.js": "/portfolio/static/js/main.282d3366.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.282d3366.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.defdbafb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.defdbafb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.7c3d640c.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.7c3d640c.js.map",
     "static/js/2.c33570f7.chunk.js": "/portfolio/static/js/2.c33570f7.chunk.js",
@@ -15,7 +15,6 @@
     "static/media/blog1.aa2f074c.svg": "/portfolio/static/media/blog1.aa2f074c.svg",
     "static/media/blog2.df7996bd.svg": "/portfolio/static/media/blog2.df7996bd.svg",
     "static/media/blog3.969725e8.svg": "/portfolio/static/media/blog3.969725e8.svg",
-    "static/media/blog4.60aa6cec.svg": "/portfolio/static/media/blog4.60aa6cec.svg",
     "static/media/design.b0dea6a3.svg": "/portfolio/static/media/design.b0dea6a3.svg",
     "static/media/App.scss": "/portfolio/static/media/dots.943074de.svg",
     "static/media/emailme.8a80ecd4.svg": "/portfolio/static/media/emailme.8a80ecd4.svg",
@@ -29,6 +28,6 @@
     "static/js/runtime-main.7c3d640c.js",
     "static/js/2.c33570f7.chunk.js",
     "static/css/main.d4558843.chunk.css",
-    "static/js/main.282d3366.chunk.js"
+    "static/js/main.defdbafb.chunk.js"
   ]
 }
