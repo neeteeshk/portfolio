@@ -4,7 +4,7 @@ import phone from '../img/phone.svg';
 import email from '../img/emailme.svg';
 import location from '../img/location.svg';
 import Tittle from '../Components/Tittle';
-
+import ContactUs from '../Components/ContactUs';
 function ContactPage() {
     return (
         <div>
@@ -21,6 +21,7 @@ function ContactPage() {
                     <ContactItem icon={location} text1={'near Purani Bus Stand Rajauli, Nawada, Bihar'} text2={'India'} title={'Address'}/>
                 </div>
             </div>
+            <ContactUs/>
         </div>
     )
 }

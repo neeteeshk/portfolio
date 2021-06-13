@@ -32,25 +32,22 @@ function App() {
               <Route path="/portfolio" exact>
                 <HomePage/>
               </Route>
-              <Route path="/" exact>
-                <HomePage />
-              </Route>
-              <Route path="/about" exact>
+              <Route path="/portfolio/about" exact>
                 <AboutPage />
               </Route>
-              <Route path="/project" exact>
+              <Route path="/portfolio/project" exact>
                 <ProjectPage />
               </Route>
-              <Route path="/blogs" exact>
+              <Route path="/portfolio/blogs" exact>
                 <BlogsPage />
               </Route>
-              <Route path="/contact" exact>
+              <Route path="/portfolio/contact" exact>
                 <ContactPage />
               </Route>
-              <Route path="/resume" exact>
+              <Route path="/portfolio/resume" exact>
                 <ResumePage/>
               </Route>
-              <Route path="/transcript" exact>
+              <Route path="/portfolio/transcript" exact>
                 <TranscriptPage/>
               </Route>
             

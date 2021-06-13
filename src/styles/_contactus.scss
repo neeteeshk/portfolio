@@ -1,0 +1,36 @@
+.contact-form{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 6rem;
+    @media screen and (max-width: 1270px){
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+#input_contact{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#input_contact{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#message{
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#btn_send{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: grid;
+  font-size: 16px;
+  cursor: pointer;
+  grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 6rem;
+
+}

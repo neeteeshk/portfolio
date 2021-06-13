@@ -12,37 +12,37 @@ function Navbar() {
 
                 <ul className="nav-items">
                     <li className="nav-item">
-                        <NavLink to="/" exact activeClassName="active">
+                        <NavLink to="/portfolio" exact activeClassName="active">
                             Home
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/about" exact activeClassName="active">
+                        <NavLink to="/portfolio/about" exact activeClassName="active">
                             About
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/project" exact activeClassName="active">
+                        <NavLink to="/portfolio/project" exact activeClassName="active">
                             Projects
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/blogs" exact activeClassName="active">
+                        <NavLink to="/portfolio/blogs" exact activeClassName="active">
                             Blogs
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/resume" exact activeClassName="active">
+                        <NavLink to="/portfolio/resume" exact activeClassName="active">
                             Resume
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/transcript" exact activeClassName="active">
+                        <NavLink to="/portfolio/transcript" exact activeClassName="active">
                             Transcript
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/contact" exact activeClassName="active">
+                        <NavLink to="/portfolio/contact" exact activeClassName="active">
                             Contact
                         </NavLink>
                     </li>
